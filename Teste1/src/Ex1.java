@@ -7,7 +7,7 @@ class Ex1 {
 		//Leituras
 		System.out.println("Digite um número");
 		num1 = sc.nextInt();
-		System.out.println("Digite outro número");
+		System.out.println("foi");
 		num2 = sc.nextInt();
 		//Somar
 		soma = num1 + num2;
